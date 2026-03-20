@@ -1,0 +1,8 @@
+{
+  "key.pixelminimap.toggle": "Toggle Minimap",
+  "key.pixelminimap.cycletab": "Cycle Map Dimension",
+  "key.pixelminimap.addwaypoint": "Add Waypoint",
+  "key.pixelminimap.zoomin": "Zoom In",
+  "key.pixelminimap.zoomout": "Zoom Out",
+  "category.pixelminimap": "Pixel Minimap"
+}

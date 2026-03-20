@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "pixelminimap",
+  "version": "${version}",
+  "name": "Pixel Minimap",
+  "description": "Pixel art minimap for all dimensions — Surface, Underground, Nether, End — with full waypoint system.",
+  "authors": ["PixelMapDev"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.pixelminimap.PixelMinimapMod"
+    ],
+    "client": [
+      "com.pixelminimap.PixelMinimapClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "fabric-api": "*",
+    "minecraft": "~1.21.4",
+    "java": ">=21"
+  }
+}
